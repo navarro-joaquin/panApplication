@@ -23,7 +23,7 @@ namespace panApplication
 
 		public string elegirNombre(int numero)
 		{
-			string nombre = "";
+			string nombre;
 
 			nombre = nombres[numero - 1];
 
