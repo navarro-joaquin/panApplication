@@ -9,10 +9,10 @@ using System.Windows.Forms;
 
 namespace panApplication
 {
-	public partial class Form1 : Form
+	public partial class Principal : Form
 	{
 		aleatorio numero;
-		public Form1()
+		public Principal()
 		{
 			InitializeComponent();
 		}
