@@ -11,9 +11,16 @@ namespace panApplication
 {
 	public partial class Form1 : Form
 	{
+		aleatorio numero;
 		public Form1()
 		{
 			InitializeComponent();
+		}
+
+		private void btnSortear_Click(object sender, EventArgs e)
+		{
+			numero = new aleatorio();
+			lblElegido.Text = numero.elegirNombre(numero.generarAleatorio());
 		}
 	}
 }
