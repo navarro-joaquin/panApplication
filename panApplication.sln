@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "panApplication", "panApplication\panApplication.csproj", "{A69D42F0-1C32-4537-9E0B-7FB38B3BEEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69D42F0-1C32-4537-9E0B-7FB38B3BEEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69D42F0-1C32-4537-9E0B-7FB38B3BEEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69D42F0-1C32-4537-9E0B-7FB38B3BEEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69D42F0-1C32-4537-9E0B-7FB38B3BEEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F209EC8E-6EB6-4B0A-AE4B-D1E0C4EB5697}
+	EndGlobalSection
+EndGlobal
